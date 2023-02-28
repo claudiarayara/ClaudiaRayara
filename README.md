@@ -2,7 +2,7 @@
 
 Desbravando o mundo da programação desde 2023. <br>Sou amante de filmes, séries, alguns animes, animais fofinhos, arte, comida e video-game. 🎮
 
-### <img width="40" alt="About" src="https://uploaddeimagens.com.br/images/004/370/932/full/business_%281%29.png?1677594600">Mais sobre mim:
+### <img width="40" alt="About" src="https://uploaddeimagens.com.br/images/004/370/932/full/business_%281%29.png?1677594600">✨ Mais sobre mim:
 
 <img align="right" width="202" height="152" src="https://i.pinimg.com/originals/3a/47/0e/3a470e3e8591ddbc4a6366b19435fd50.gif"/>
 
@@ -17,12 +17,12 @@ object claudia rayara {
 ```
 <div align="center">
   
-### **GitHub Estatísticas, Linguagens e Ferramentas:**
+### **✨ GitHub Estatísticas, Linguagens e Ferramentas:**
   
 <div style="display: inline_block">
   <a href="https://github.com/claudiarayara">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=claudiarayara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=claudiarayara&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&langs_count=8&theme=transparent"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rayara-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
@@ -32,7 +32,7 @@ object claudia rayara {
   
 </div>
   
-### **Rede Sociais!**
+### **✨ Rede Sociais!**
  
 <div> 
   
