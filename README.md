@@ -1,45 +1,39 @@
-### ✨ Hello devs, bão?
+<img align="right" width="250px" style="margin-top:-20px" src="https://uploaddeimagens.com.br/images/004/371/231/full/2-removebg-preview.png?1677604041">
+ <h1 align="left">✨ Claudia Rayara</h1>
 
-Desbravando o mundo da programação desde 2023. <br>Sou amante de filmes, séries, alguns animes, animais fofinhos, arte, comida e video-game. 🎮
+<div dsplay="inline-block">
+  <a href="https://www.linkedin.com/in/claudiarayara">
+    <img width="60px" src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" alt="LinkedIn" title = "LinkedIn" style="vertical-align:top;"></a>
+ &emsp;
+  <a href = "mailto:contato.claudiarayara@gmail.com"><img width="60px" src="https://uploaddeimagens.com.br/images/004/371/275/full/gmail.png?1677605348" target="_blank" alt="Gmail" title = "Gmail" style="vertical-align:top;"></a>
+ &emsp;
+  <a href="https://www.instagram.com/claudiarayara/">
+    <img width="60px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="Instagram" title = "Instagram" style="vertical-align:top;"></a>
+ &emsp;
+  <a href="https://www.twitch.tv/claudiarayara">
+    <img width="60px" src="https://cdn-icons-png.flaticon.com/512/3669/3669999.png" alt="Twitch" title = "Twitch" style="vertical-align:top;"></a>
+</div>
 
-### <img width="40" alt="About" src="https://uploaddeimagens.com.br/images/004/370/932/full/business_%281%29.png?1677594600">✨ Mais sobre mim:
-
-<img align="right" width="202" height="152" src="https://i.pinimg.com/originals/3a/47/0e/3a470e3e8591ddbc4a6366b19435fd50.gif"/>
-
-```kotlin
-object claudia rayara {
- val name = "rayara"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+</br>
+</br>
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("JavaScript") 
-}
-```
-<div align="center">
-  
-### **✨ GitHub Estatísticas, Linguagens e Ferramentas:**
-  
+<h3>✨ Hello devs, bão?</h3>
+Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤ <br>
+Comecei meus estudos na platadorma <a href="https://cursos.alura.com.br/user/claudia-rayara">Alura</a> para me tornar uma Desenvolvedora Front-End.<br><br>
+Amante de filmes, séries, alguns animes, animais fofinhos, arte, comida e video-game (mas sou muito ruim em todos os jogos), as vezes faço lives com meu marido na <a href="https://www.twitch.tv/caaraay">Twitch</a> com jogos co-op, segue a gente lá. <a href="https://www.twitch.tv/caaraay">🎮</a><br>
+
+<h3>✨ Tecnologias e Ferramentas:</h3>
 <div style="display: inline_block">
-  <a href="https://github.com/claudiarayara">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=claudiarayara&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&langs_count=8&theme=buefy"/>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rayara-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="Rayara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="Rayara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>  
 </div>
-  
-### **✨ Rede Sociais!**
- 
-<div> 
-  
-  <a href="https://instagram.com/claudiarayara" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/caaraay" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- 
-  <a href = "mailto:contato.claudiarayara@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/claudiarayara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+##
+<p align="center">
+<a href="https://github.com/claudiarayara">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=claudiarayara&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
