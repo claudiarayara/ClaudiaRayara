@@ -4,7 +4,7 @@ Desbravando o mundo da programação desde 2023. <br>Sou amante de filmes, sér
 
 ### <img width="40" alt="About" src="https://uploaddeimagens.com.br/images/004/370/932/full/business_%281%29.png?1677594600">Mais sobre mim:
 
-<img align="right" width="225" src="https://i.pinimg.com/originals/3a/47/0e/3a470e3e8591ddbc4a6366b19435fd50.gif"/>
+<img align="right" width="220" src="https://i.pinimg.com/originals/3a/47/0e/3a470e3e8591ddbc4a6366b19435fd50.gif"/>
 
 ```kotlin
 object claudia rayara {
