@@ -21,8 +21,8 @@ object claudia rayara {
   
 <div style="display: inline_block">
   <a href="https://github.com/claudiarayara">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=claudiarayara&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&langs_count=8&theme=transparent"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=claudiarayara&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&langs_count=8&theme=buefy"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rayara-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
