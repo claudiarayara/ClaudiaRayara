@@ -34,10 +34,10 @@ Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, músi
 <div style="display: inline_block">
  <p align="center">
 <a href="https://github.com/claudiarayara/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=claudiarayara&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiarayara&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&repo=claudiarayara.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&repo=claudiarayara.github.io&theme=buefy" />
 </a>
 </div>
 </p>
