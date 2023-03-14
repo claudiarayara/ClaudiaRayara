@@ -17,7 +17,7 @@
 </br>
 </br>
  
-<h3>✨ Hello devs, bão? Teste</h3>
+<h3>✨ Hello devs, bão?</h3>
 Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤ <br>
 Comecei meus estudos na platadorma <a href="https://cursos.alura.com.br/user/claudia-rayara">Alura</a> para me tornar uma Desenvolvedora Front-End.<br><br>
 Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, música, comida e vídeo-game (mas sou ruim em todos os jogos), as vezes faço lives com meu marido na <a href="https://www.twitch.tv/caaraay">Twitch</a> com jogos co-op, segue a gente lá. <a href="https://www.twitch.tv/caaraay">🎮</a><br>
