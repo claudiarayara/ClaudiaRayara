@@ -34,5 +34,5 @@ Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, músi
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiarayara&hide=issues&show_icons=true&theme=buefy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiarayara&count_private=true&show_icons=true&theme=buefy)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=claudiarayara&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact)
