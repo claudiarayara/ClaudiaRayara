@@ -33,4 +33,4 @@ Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, músi
 </div>
 
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&langs_count=8)
