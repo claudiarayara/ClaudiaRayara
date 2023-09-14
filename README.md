@@ -20,6 +20,7 @@
 <h3>✨ Hello devs, bão?</h3>
 Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤ <br>
 Comecei meus estudos na platadorma <a href="https://cursos.alura.com.br/user/claudia-rayara">Alura</a> para me tornar uma Desenvolvedora Front-End.<br><br>
+Atualmente estou cursando na PUCRS o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile.<br><br>
 Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, música, comida e vídeo-game (mas sou ruim em todos os jogos), as vezes faço lives com meu marido na <a href="https://www.twitch.tv/caaraay">Twitch</a> com jogos co-op, segue a gente lá. <a href="https://www.twitch.tv/caaraay">🎮</a><br>
 
 <h3>✨ Tecnologias e Ferramentas:</h3>
@@ -27,6 +28,7 @@ Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, músi
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "Python"/></code> 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GitHub"/></code>  
 </div>
 
