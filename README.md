@@ -35,7 +35,7 @@ Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, músi
 ##
 <div style="display: inline_block">
  <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=claudiarayara&count_private=true&show_icons=true&theme=buefy"><img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiarayara&count_private=true&show_icons=true&theme=buefy"/></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=claudiarayara&count_private=true&show_icons=true&theme=buefy"></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&repo=claudiarayara.github.io&theme=buefy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiarayara&layout=compact&repo=claudiarayara.github.io&theme=buefy"/></a>
 </div>
 </p>
