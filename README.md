@@ -26,10 +26,10 @@ Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, músi
 <h3>✨ Tecnologias e Ferramentas:</h3>
 <div style="display: inline_block">
 <a href="https://github.com/claudiarayara"><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title = "HTML5"></a>
-<code><img width="40px" href="https://github.com/claudiarayara" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<code><img width="40px" href="https://github.com/claudiarayara" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
-<code><img width="40px" href="https://github.com/claudiarayara" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title = "Python"/></code> 
-<code><img width="40px" href="https://github.com/claudiarayara" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title = "GitHub"/></code>
+<a href="https://github.com/claudiarayara"><img width="40px" href="https://github.com/claudiarayara" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></a>
+<a href="https://github.com/claudiarayara"><img width="40px" href="https://github.com/claudiarayara" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title = "JavaScript"/></a>
+<a href="https://github.com/claudiarayara"><img width="40px" href="https://github.com/claudiarayara" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title = "Python"/></a> 
+<a href="https://github.com/claudiarayara"><img width="40px" href="https://github.com/claudiarayara" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title = "GitHub"/></a>
 </div>
 
 ##
