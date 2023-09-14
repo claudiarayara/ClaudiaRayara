@@ -3,12 +3,15 @@
 
 <div dsplay="inline-block">
   <a href="https://www.linkedin.com/in/claudiarayara" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" alt="LinkedIn" title = "LinkedIn" style="vertical-align:top;"></a>
+    <img width="60px" src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" alt="LinkedIn" title = "LinkedIn" style="vertical-align:top;">
+  </a>
  &emsp;
-  <a href = "mailto:contato.claudiarayara@gmail.com"><img width="60px" src="https://uploaddeimagens.com.br/images/004/371/275/full/gmail.png?1677605348" target="_blank" alt="Gmail" title = "Gmail" style="vertical-align:top;"></a>
+  <a href = "mailto:contato.claudiarayara@gmail.com"><img width="60px" src="https://uploaddeimagens.com.br/images/004/371/275/full/gmail.png?1677605348" target="_blank" alt="Gmail" title = "Gmail" style="vertical-align:top;">
+  </a>
  &emsp;
   <a href="https://www.instagram.com/claudiarayara/" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="Instagram" title = "Instagram" style="vertical-align:top;"></a>
+    <img width="60px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="Instagram" title = "Instagram" style="vertical-align:top;">
+  </a>
  &emsp;
   <a href="https://www.twitch.tv/claudiarayara" target="_blank">
     <img width="60px" src="https://cdn-icons-png.flaticon.com/512/3669/3669999.png" alt="Twitch" title = "Twitch" style="vertical-align:top;"></a>
