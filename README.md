@@ -1,4 +1,4 @@
-<a href="https://github.com/claudiarayara"><img align="right" width="250px" style="margin-top:-20px" src="https://uploaddeimagens.com.br/images/004/371/231/full/2-removebg-preview.png?1677604041"></a>
+<a href="https://github.com/claudiarayara"></a>
  <h1 align="left">✨ Claudia Rayara</h1>
 
 <div display="inline-block">
