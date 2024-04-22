@@ -15,7 +15,7 @@
 </br>
  
 <h3>✨ Oi, tudo bem?</h3>
-Sou iniciante no universo da programação.<br>
+Sou iniciante no universo da programação.<br><br>
 Comecei meus estudos na platadorma <a href="https://cursos.alura.com.br/user/claudiarayara">Alura</a> para me tornar uma Desenvolvedora Front-End.<br>
 Atualmente estou cursando na PUCRS o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile.<br><br>
 Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, música, comida e vídeo-game (mas sou ruim em todos os jogos).<br>
