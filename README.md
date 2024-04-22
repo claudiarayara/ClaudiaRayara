@@ -6,25 +6,19 @@
     <img width="60px" src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" alt="LinkedIn" title = "LinkedIn" style="vertical-align:top;">
   </a>
  &emsp;
-  <a href = "mailto:contato.claudiarayara@gmail.com"><img width="60px" src="https://uploaddeimagens.com.br/images/004/371/275/full/gmail.png?1677605348" target="_blank" alt="Gmail" title = "Gmail" style="vertical-align:top;">
-  </a>
- &emsp;
   <a href="https://www.instagram.com/claudiarayara/" target="_blank">
     <img width="60px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="Instagram" title = "Instagram" style="vertical-align:top;">
   </a>
- &emsp;
-  <a href="https://www.twitch.tv/claudiarayara" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.flaticon.com/512/3669/3669999.png" alt="Twitch" title = "Twitch" style="vertical-align:top;"></a>
 </div>
 
 </br>
 </br>
  
-<h3>✨ Hello devs, bão?</h3>
-Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤ <br>
-Comecei meus estudos na platadorma <a href="https://cursos.alura.com.br/user/claudia-rayara">Alura</a> para me tornar uma Desenvolvedora Front-End.<br><br>
+<h3>✨ Oi, tudo bem?</h3>
+Sou iniciante no universo da programação.<br>
+Comecei meus estudos na platadorma <a href="https://cursos.alura.com.br/user/claudiarayara">Alura</a> para me tornar uma Desenvolvedora Front-End.<br><br>
 Atualmente estou cursando na PUCRS o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile.<br><br>
-Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, música, comida e vídeo-game (mas sou ruim em todos os jogos), as vezes faço lives com meu marido na <a href="https://www.twitch.tv/caaraay">Twitch</a> com jogos co-op, segue a gente lá. <a href="https://www.twitch.tv/caaraay">🎮</a><br>
+Amante de filmes, séries, alguns animes, animais fofos, arte, maquiagem, música, comida e vídeo-game (mas sou ruim em todos os jogos).<br>
 
 <h3>✨ Tecnologias e Ferramentas:</h3>
 <div style="display: inline_block">
