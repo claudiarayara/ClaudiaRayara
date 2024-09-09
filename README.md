@@ -5,10 +5,6 @@
   <a href="https://www.linkedin.com/in/claudiarayara" target="_blank">
     <img width="60px" src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" alt="LinkedIn" title = "LinkedIn" style="vertical-align:top;">
   </a>
- &emsp;
-  <a href="https://www.instagram.com/claudiarayara/" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="Instagram" title = "Instagram" style="vertical-align:top;">
-  </a>
 </div>
 
 </br>
